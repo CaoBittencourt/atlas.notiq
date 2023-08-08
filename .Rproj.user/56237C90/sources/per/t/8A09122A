@@ -1,0 +1,26 @@
+{
+    "id": "8A09122A",
+    "path": "~/Github/atlas-research/packages/development/atlas.notiq/R/fun_not_iq.R",
+    "project_path": "R/fun_not_iq.R",
+    "type": "r_source",
+    "hash": "3757292484",
+    "contents": "",
+    "dirty": false,
+    "created": 1691537922498.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "6,15",
+        "scrollLine": "0"
+    },
+    "folds": "0|10|0|75|\n1|13|3|0|\n4|13|4|75|\n5|21|61|0|\n12|2|60|0|\n62|11|62|77|\n63|13|72|0|\n",
+    "lastKnownWriteTime": 1691538399,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1691538406531,
+    "read_only": false,
+    "read_only_alternatives": []
+}
